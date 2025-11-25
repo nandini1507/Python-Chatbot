@@ -1,6 +1,6 @@
 # Python-Chatbot
 A simple Python chatbot built using if‑else statements, designed to simulate basic conversation and demonstrate control flow.
-# Task 8: Build a Chatbot using if-else
+#  Build a Chatbot using if-else
 
 ## Description
 This repository contains the submission for Task 8 of the Python Developer Internship. The objective was to create a simple rule-based chatbot using Python's control flow and loops.
